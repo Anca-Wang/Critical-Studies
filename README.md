@@ -15,7 +15,7 @@ Just a year ago, I had only a vague understanding of feminism, but now, thanks t
 
 2. **Non-radical feminism in China**: Given the strict surveillance of the Chinese government, Chinese cyberfeminists are often unable to express radical ideas online. This is an important aspect of Chinese cyberfeminism to explore, as it speaks to the limitations and challenges faced by feminists in China. I delve deeper into the implications of this non-radical approach, exploring how it shapes the discourse and goals of Chinese cyberfeminism.
 
-3. **Beauty labor and feminism**: Although this topic is relatively commonplace, it has clearly had a profound impact on myself personally. I use this as an opportunity to reflect on your own experiences and explore the ways in which beauty labor intersects with feminist ideology. I also explore the ways in which beauty standards and the beauty industry have impacted Chinese women specifically.
+3. **Beauty labor and feminism**: Although this topic is relatively commonplace, it has clearly had a profound impact on myself personally. I use this as an opportunity to reflect on my own experiences and explore the ways in which beauty labor intersects with feminist ideology. I also explore the ways in which beauty standards and the beauty industry have impacted Chinese women specifically.
 
 ## Future Development
 
