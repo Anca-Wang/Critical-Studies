@@ -1,22 +1,26 @@
 # Critical-Studies
-## Inspiration and Research
+Please check links below for the formal homework:
 
-Cyberfeminism has always interested me, and while I've read feminist articles and written female-friendly fiction, I've never explored it academically. However, this time I'm now determined to do so. 
+Week 12: https://github.com/Anca-Wang/Critical-Studies/blob/main/Week%2012/Week%2012%20Research.pdf
 
-Just a year ago, I had only a vague understanding of feminism, but now, thanks to the resilience and hard work of Chinese cyberfeminist bloggers and scholars, I have become a firm believer in the power of feminism, and **I feel a strong desire to write about their contributions to the development of Chinese cyberfeminism.**
+Week 15: https://github.com/Anca-Wang/Critical-Studies/blob/main/Week%2015.pdf
 
-**Thanks to the guidance and support of Hunter, who has taught me how to conduct research and provided me with valuable advice on my topic**, I am now more confident than ever about my ability to produce a thoughtful and insightful piece on the subject.
+Week 17: https://github.com/Anca-Wang/Critical-Studies/blob/main/Week%2017.pdf
+
+If you are interested, I also wrote articles about **Chinese cyberfeminism** which interested me deeply:
+
+1. **Why should Chinese cyberfeminists strike a balance between fighting for team purity and uniting all forces?**: 
+https://github.com/Anca-Wang/Critical-Studies/blob/main/Article%201.pdf
 
 
+2. **Non-radical character of Chinese cyberfeminism**: 
+https://github.com/Anca-Wang/Critical-Studies/blob/main/Article%202.pdf
 
-## Journal Topic
 
-1. **Collectivism and Chinese cyberfeminism**: In my essay, I note that collectivism can bring women together and help Chinese cyberfeminism develop faster. However, I also recognize that this can lead to exclusivity and anti-foreign sentiments, which is problematic. It's important for Chinese cyberfeminists to strike a balance between team purity and inclusion. 
+3. **Chinese Cyberfeminism appeals Chinese women to Stop Beauty Labor**: 
+https://github.com/Anca-Wang/Critical-Studies/blob/main/Article%203.pdf
 
-2. **Non-radical feminism in China**: Given the strict surveillance of the Chinese government, Chinese cyberfeminists are often unable to express radical ideas online. This is an important aspect of Chinese cyberfeminism to explore, as it speaks to the limitations and challenges faced by feminists in China. I delve deeper into the implications of this non-radical approach, exploring how it shapes the discourse and goals of Chinese cyberfeminism.
 
-3. **Beauty labor and feminism**: Although this topic is relatively commonplace, it has clearly had a profound impact on myself personally. I use this as an opportunity to explore the ways in which beauty labor intersects with feminist ideology. I also explore the ways in which beauty standards and the beauty industry have impacted Chinese women specifically.
+#### Acknowledgement
 
-## Future Development
-
-I am inspired to continue my research and stay engaged with this topic as it evolves over time. **I am excited to see how my own perspectives on this subject will grow and change as I continue to learn more about it.**
+Thanks to the guidance and support of Hunter, who has taught me how to conduct research and provided me with valuable advice on my topic, I am now more confident than ever about my ability to produce a thoughtful and insightful piece on the subject.
